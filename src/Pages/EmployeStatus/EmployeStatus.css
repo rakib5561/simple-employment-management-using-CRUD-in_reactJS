@@ -1,0 +1,16 @@
+.employe-wrapper{
+    padding: 50px 0px;
+    overflow: hidden;
+}
+
+.employe-title{
+
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+
+}
+
+.Add-employer{
+    padding: 50px 10px;
+}
