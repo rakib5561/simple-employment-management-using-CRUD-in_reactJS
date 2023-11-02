@@ -1,3 +1,4 @@
+import { Outlet } from 'react-router-dom'
 import './App.css'
 import Home from './Pages/Home/Home'
 import Header from './Shared Components/Header/Header'

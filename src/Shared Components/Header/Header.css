@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.container{
+    width: 1240px;
+    margin: 0 auto;
+    padding: 0px 50px;
+}
+.header-wrapper{
+
+    width: 100%;
+    background-color: aqua;
+    padding: 10px 20px;
+
+}
+
+.primary-menu{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.logo{
+    text-transform: uppercase;
+    font-size: 26px;
+}
+
+
+.menu-item{
+    color: black;
+    padding: 0px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+}
