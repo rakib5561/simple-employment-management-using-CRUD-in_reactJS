@@ -1,14 +1,14 @@
 import React from 'react';
-import './Contact.css';
+import './EmployeStatus.css';
 import { Outlet } from 'react-router-dom';
 
-const Contact = () => {
+const EmployeStatus = () => {
     return (
         <div>
-            <h1>Contact page</h1>
+            <h1>Employe management</h1>
             <Outlet></Outlet>
         </div>
     );
 };
 
-export default Contact;
+export default EmployeStatus;
